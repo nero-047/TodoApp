@@ -16,17 +16,12 @@ A feature-rich Task Manager App built with React Native to help you manage your 
 *   Due date selection with a calendar picker.
 *   Responsive design compatible with both Android and iOS.
 
-## Preview
-
-Preview of the app interface set against a space theme
-
-[<img src="https://github.com/nero-047/TodoApp/blob/main/assets/sh_1.png" style="width: 380px; aspect-ratio: 16 / 9;">](https://github.com/nero-047/TodoApp/blob/main/assets/sh_1.png)
 
 ## Installation
 
 1.  Clone the repository
 ```bash
-git clone https://github.com/nero-047/task-manager-app.git
+git clone https://github.com/nero-047/TodoApp.git
 cd task-manager-app
 ```
 2.  Install dependencies
@@ -60,7 +55,7 @@ npm run ios
 
 ## Space Picture of the App in Action
 
-[Image preview of the app interface set against a space theme](insert image URL here)
+<img src="https://github.com/nero-047/TodoApp/blob/main/assets/sh_2.png" style="width: 380px; aspect-ratio: 16 / 9;">   <img src="https://github.com/nero-047/TodoApp/blob/main/assets/sh_1.png" style="width: 380px; aspect-ratio: 16 / 9;">
 
 ## Contributing
 
