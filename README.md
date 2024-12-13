@@ -18,7 +18,7 @@ A feature-rich Task Manager App built with React Native to help you manage your 
 
 ## Preview
 
-[Preview of the app interface set against a space theme](insert image URL here)
+[Preview of the app interface set against a space theme](https://github.com/nero-047/TodoApp/assets/sh_1.png)
 
 ## Installation
 
