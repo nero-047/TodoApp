@@ -26,7 +26,7 @@ cd TodoApp
 ```
 2.  Install dependencies
 ```bash
-npm install
+npm install @react-native-async-storage/async-storage react-native-modal @react-native-community/datetimepicker
 ```
 3.  Run the app
 *   For Android:
