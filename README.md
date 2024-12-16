@@ -22,7 +22,7 @@ A feature-rich Task Manager App built with React Native to help you manage your 
 1.  Clone the repository
 ```bash
 git clone https://github.com/nero-047/TodoApp.git
-cd task-manager-app
+cd TodoApp
 ```
 2.  Install dependencies
 ```bash
